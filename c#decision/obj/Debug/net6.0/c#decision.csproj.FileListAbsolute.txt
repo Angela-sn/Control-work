@@ -1,0 +1,15 @@
+C:\Users\АНЖЕЛА\Desktop\Control work\Task\c#decision\bin\Debug\net6.0\c#decision.exe
+C:\Users\АНЖЕЛА\Desktop\Control work\Task\c#decision\bin\Debug\net6.0\c#decision.deps.json
+C:\Users\АНЖЕЛА\Desktop\Control work\Task\c#decision\bin\Debug\net6.0\c#decision.runtimeconfig.json
+C:\Users\АНЖЕЛА\Desktop\Control work\Task\c#decision\bin\Debug\net6.0\c#decision.dll
+C:\Users\АНЖЕЛА\Desktop\Control work\Task\c#decision\bin\Debug\net6.0\c#decision.pdb
+C:\Users\АНЖЕЛА\Desktop\Control work\Task\c#decision\obj\Debug\net6.0\c#decision.csproj.AssemblyReference.cache
+C:\Users\АНЖЕЛА\Desktop\Control work\Task\c#decision\obj\Debug\net6.0\c#decision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АНЖЕЛА\Desktop\Control work\Task\c#decision\obj\Debug\net6.0\c#decision.AssemblyInfoInputs.cache
+C:\Users\АНЖЕЛА\Desktop\Control work\Task\c#decision\obj\Debug\net6.0\c#decision.AssemblyInfo.cs
+C:\Users\АНЖЕЛА\Desktop\Control work\Task\c#decision\obj\Debug\net6.0\c#decision.csproj.CoreCompileInputs.cache
+C:\Users\АНЖЕЛА\Desktop\Control work\Task\c#decision\obj\Debug\net6.0\c#decision.dll
+C:\Users\АНЖЕЛА\Desktop\Control work\Task\c#decision\obj\Debug\net6.0\refint\c#decision.dll
+C:\Users\АНЖЕЛА\Desktop\Control work\Task\c#decision\obj\Debug\net6.0\c#decision.pdb
+C:\Users\АНЖЕЛА\Desktop\Control work\Task\c#decision\obj\Debug\net6.0\c#decision.genruntimeconfig.cache
+C:\Users\АНЖЕЛА\Desktop\Control work\Task\c#decision\obj\Debug\net6.0\ref\c#decision.dll
